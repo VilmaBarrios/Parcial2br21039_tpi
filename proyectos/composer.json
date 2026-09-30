@@ -1,0 +1,10 @@
+{
+    "name": "root/html",
+    "description": "parcial2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
